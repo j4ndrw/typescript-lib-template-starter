@@ -9,7 +9,7 @@ export default defineConfig({
       entry: path.resolve(__dirname, 'src/index.ts'),
       name: 'index',
       formats: ['cjs'],
-      fileName: `index.js`,
+      fileName: `index`,
     },
   },
 });
